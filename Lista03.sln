@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLivros", "WebLivros\WebLivros.csproj", "{5FE10A1E-677A-49F7-B6F8-86E5295426EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE10A1E-677A-49F7-B6F8-86E5295426EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE10A1E-677A-49F7-B6F8-86E5295426EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE10A1E-677A-49F7-B6F8-86E5295426EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE10A1E-677A-49F7-B6F8-86E5295426EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
