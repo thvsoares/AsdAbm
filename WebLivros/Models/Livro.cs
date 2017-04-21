@@ -17,16 +17,16 @@ namespace WebLivros.Models
         public string Titulo { get; set; }
 
         [MinLength(1)]
-        public List<string> Autores { get; set; }
+        public List<Autor> Autores { get; set; }
 
         [MinLength(1)]
-        public List<string> PalavrasChaves { get; set; }
+        public List<PalavraChave> PalavrasChaves { get; set; }
 
         public string Criticas { get; set; }
 
         public DateTime AnoPublicacao { get; set; }
 
-        public byte Edicao { get; set; }
+        public int Edicao { get; set; }
 
         public string Editora { get; set; }
 
